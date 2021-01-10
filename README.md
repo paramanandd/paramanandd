@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on AWS, DevOps Cloud
+- 🌱 I’m currently learning and implemnting Kubernetes
+- 👯 I’m looking to collaborate on issues and discussions on opensource tools from DevOps
+- 💬 Ask me about DevOps tools or AWS cloud also a coding issues in Python or Java
+- 📫 How to reach me: paramanandd@gmail.com or LinkedIN: https://www.linkedin.com/in/paramanand-dhuri-9318928a/
+- 😄 Pronouns: Parama
